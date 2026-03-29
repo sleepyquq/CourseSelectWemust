@@ -162,8 +162,6 @@ options.add_argument("--remote-debugging-port=9222")
 
 **祝您选课顺利！** 🎓
 
----
-ps:也许之后我有空了会继续完善本项目为完整的可视化图形界面操作软件
 
 
 
