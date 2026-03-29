@@ -149,16 +149,6 @@ options.add_argument("--remote-debugging-port=9222")
 - 承担使用本脚本的所有风险和责任
 - 不得用于任何违法或不当用途
 
-## 许可证
-
-本项目采用MIT许可证，详见LICENSE文件。
-
-## 贡献
-
-欢迎提交Issue和Pull Request来改进这个项目！
-
-
----
 
 **祝您选课顺利！** 🎓
 
