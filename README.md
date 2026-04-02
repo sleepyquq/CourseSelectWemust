@@ -122,16 +122,7 @@ time.sleep(10)  # 页面刷新等待时间
    - 下载与Edge浏览器版本匹配的EdgeDriver
    - 替换项目中的msedgedriver.exe文件
 
-### 调试模式
 
-脚本已启用调试模式，可以通过以下方式调试：
-
-```python
-# 启用远程调试端口
-options.add_argument("--remote-debugging-port=9222")
-```
-
-在浏览器中访问 `http://localhost:9222` 进行调试。
 
 ## 技术实现
 
